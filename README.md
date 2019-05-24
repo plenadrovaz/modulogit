@@ -1,11 +1,4 @@
 primeiro sistema no git
 
 
-alterar arquivo
-
-
-
-segundo commit
-
-
-terceiro commit
+alterado para envio de arquivo com push
